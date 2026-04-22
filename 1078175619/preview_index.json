@@ -1,0 +1,19 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1078175619",
+  "updated_at": "2026-04-22T16:19:15.652485",
+  "skins": [
+    {
+      "name": "蕾の霓虹醉柔兔",
+      "file": "蕾の霓虹醉柔兔.bds",
+      "thumb": "蕾の霓虹醉柔兔.bds_py_26_default_thumb.png",
+      "full": "蕾の霓虹醉柔兔.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の樱园莓酱果",
+      "file": "蕾の樱园莓酱果.bds",
+      "thumb": "蕾の樱园莓酱果.bds_py_26_default_thumb.png",
+      "full": "蕾の樱园莓酱果.bds_py_26_default.png"
+    }
+  ]
+}

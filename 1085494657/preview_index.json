@@ -1,0 +1,19 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1085494657",
+  "updated_at": "2026-04-22T16:19:24.385528",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "蕾の初訊春章.bds",
+      "thumb": "蕾の初訊春章.bds_py_26_light_thumb.png",
+      "full": "蕾の初訊春章.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉骸骷髅",
+      "file": "蕾の粉骸骷髅.bds",
+      "thumb": "蕾の粉骸骷髅.bds_py_26_light_thumb.png",
+      "full": "蕾の粉骸骷髅.bds_py_26_light.png"
+    }
+  ]
+}

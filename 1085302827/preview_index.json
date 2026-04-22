@@ -1,0 +1,19 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1085302827",
+  "updated_at": "2026-04-22T16:19:42.567912",
+  "skins": [
+    {
+      "name": "蕾の鸦紫甜咒",
+      "file": "蕾の鸦紫甜咒.bds",
+      "thumb": "蕾の鸦紫甜咒.bds_py_26_light_thumb.png",
+      "full": "蕾の鸦紫甜咒.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の绒绒泡面兔",
+      "file": "蕾の绒绒泡面兔.bds",
+      "thumb": "蕾の绒绒泡面兔.bds_py_26_light_thumb.png",
+      "full": "蕾の绒绒泡面兔.bds_py_26_light.png"
+    }
+  ]
+}

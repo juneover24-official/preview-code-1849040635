@@ -1,0 +1,19 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1092120746",
+  "updated_at": "2026-04-22T16:19:42.091824",
+  "skins": [
+    {
+      "name": "蕾の橱窗人偶doll",
+      "file": "蕾の橱窗人偶doll.bds",
+      "thumb": "蕾の橱窗人偶doll.bds_py_26_light_thumb.png",
+      "full": "蕾の橱窗人偶doll.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の小兔初春邮件",
+      "file": "蕾の小兔初春邮件.bds",
+      "thumb": "蕾の小兔初春邮件.bds_py_26_light_thumb.png",
+      "full": "蕾の小兔初春邮件.bds_py_26_light.png"
+    }
+  ]
+}

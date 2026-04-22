@@ -1,0 +1,55 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1074380620",
+  "updated_at": "2026-04-22T16:19:15.359409",
+  "skins": [
+    {
+      "name": "蕾の浮生暮待复暖",
+      "file": "蕾の浮生暮待复暖.bds",
+      "thumb": "蕾の浮生暮待复暖.bds_py_26_default_thumb.png",
+      "full": "蕾の浮生暮待复暖.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の甜品补充奶芙芙",
+      "file": "蕾の甜品补充奶芙芙.bds",
+      "thumb": "蕾の甜品补充奶芙芙.bds_py_26_default_thumb.png",
+      "full": "蕾の甜品补充奶芙芙.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の奶油丝绒兔兔",
+      "file": "蕾の奶油丝绒兔兔.bds",
+      "thumb": "蕾の奶油丝绒兔兔.bds_py_26_default_thumb.png",
+      "full": "蕾の奶油丝绒兔兔.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の亚修修魔酱",
+      "file": "蕾の亚修修魔酱.bds",
+      "thumb": "蕾の亚修修魔酱.bds_py_26_default_thumb.png",
+      "full": "蕾の亚修修魔酱.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の亚修修魔酱",
+      "file": "蕾の亚修修魔酱.bdi",
+      "thumb": "蕾の亚修修魔酱.bdi_py_26_default_thumb.png",
+      "full": "蕾の亚修修魔酱.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾の甜品补充奶芙芙",
+      "file": "蕾の甜品补充奶芙芙.bdi",
+      "thumb": "蕾の甜品补充奶芙芙.bdi_py_26_default_thumb.png",
+      "full": "蕾の甜品补充奶芙芙.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾の浮生暮待复暖",
+      "file": "蕾の浮生暮待复暖.bdi",
+      "thumb": "蕾の浮生暮待复暖.bdi_py_26_default_thumb.png",
+      "full": "蕾の浮生暮待复暖.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾の奶油丝绒兔兔",
+      "file": "蕾の奶油丝绒兔兔.bdi",
+      "thumb": "蕾の奶油丝绒兔兔.bdi_py_26_default_thumb.png",
+      "full": "蕾の奶油丝绒兔兔.bdi_py_26_default.png"
+    }
+  ]
+}

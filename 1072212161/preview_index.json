@@ -1,0 +1,25 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1072212161",
+  "updated_at": "2026-04-22T16:19:20.162385",
+  "skins": [
+    {
+      "name": "蕾の未抵达结局",
+      "file": "蕾の未抵达结局.bds",
+      "thumb": "蕾の未抵达结局.bds_py_26_light_thumb.png",
+      "full": "蕾の未抵达结局.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の终末狂想",
+      "file": "蕾の终末狂想.bds",
+      "thumb": "蕾の终末狂想.bds_py_26_light_thumb.png",
+      "full": "蕾の终末狂想.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の妖狐仆SS.bds",
+      "thumb": "蕾の妖狐仆SS.bds_py_26_light_thumb.png",
+      "full": "蕾の妖狐仆SS.bds_py_26_light.png"
+    }
+  ]
+}

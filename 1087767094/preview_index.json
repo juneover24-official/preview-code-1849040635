@@ -1,0 +1,31 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1087767094",
+  "updated_at": "2026-04-22T16:19:30.579433",
+  "skins": [
+    {
+      "name": "蕾の兔叽莓果脆",
+      "file": "蕾の兔叽莓果脆.bds",
+      "thumb": "蕾の兔叽莓果脆.bds_py_26_light_thumb.png",
+      "full": "蕾の兔叽莓果脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の兔叽莓果闷",
+      "file": "蕾の兔叽莓果闷.bds",
+      "thumb": "蕾の兔叽莓果闷.bds_py_26_light_thumb.png",
+      "full": "蕾の兔叽莓果闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の兔叽莓果闷.bdi",
+      "thumb": "蕾の兔叽莓果闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の兔叽莓果闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の兔叽莓果脆.bdi",
+      "thumb": "蕾の兔叽莓果脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の兔叽莓果脆.bdi_py_26_light.png"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "qq_number": "1849040635",
+  "group_number": "1083649299",
+  "updated_at": "2026-04-22T16:19:19.655676",
+  "skins": [
+    {
+      "name": "蕾の焦糖奶芙脆",
+      "file": "蕾の焦糖奶芙脆.bds",
+      "thumb": "蕾の焦糖奶芙脆.bds_py_26_light_thumb.png",
+      "full": "蕾の焦糖奶芙脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の薄荷巧巧眠脆",
+      "file": "蕾の薄荷巧巧眠脆.bds",
+      "thumb": "蕾の薄荷巧巧眠脆.bds_py_26_light_thumb.png",
+      "full": "蕾の薄荷巧巧眠脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の桃桃莓华脆",
+      "file": "蕾の桃桃莓华脆.bds",
+      "thumb": "蕾の桃桃莓华脆.bds_py_26_light_thumb.png",
+      "full": "蕾の桃桃莓华脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の邪王真眼樱花信脆闷",
+      "file": "蕾の邪王真眼樱花信脆闷.bds",
+      "thumb": "蕾の邪王真眼樱花信脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の邪王真眼樱花信脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の猫耳哀歌脆",
+      "file": "蕾の猫耳哀歌脆.bds",
+      "thumb": "蕾の猫耳哀歌脆.bds_py_26_light_thumb.png",
+      "full": "蕾の猫耳哀歌脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "我萌怎么啦.bds",
+      "thumb": "我萌怎么啦.bds_py_26_light_thumb.png",
+      "full": "我萌怎么啦.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "和泉妃爱.bds",
+      "thumb": "和泉妃爱.bds_py_26_light_thumb.png",
+      "full": "和泉妃爱.bds_py_26_light.png"
+    },
+    {
+      "name": "甜妹贴纸底包",
+      "file": "蕾の樱桃鼠愿曲奇饼脆.bds",
+      "thumb": "蕾の樱桃鼠愿曲奇饼脆.bds_py_26_light_thumb.png",
+      "full": "蕾の樱桃鼠愿曲奇饼脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾のmymelogun脆",
+      "file": "蕾のmymelogun脆.bds",
+      "thumb": "蕾のmymelogun脆.bds_py_26_light_thumb.png",
+      "full": "蕾のmymelogun脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の猫饼甜莓脆",
+      "file": "蕾の猫饼甜莓脆.bds",
+      "thumb": "蕾の猫饼甜莓脆.bds_py_26_light_thumb.png",
+      "full": "蕾の猫饼甜莓脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の邪王真眼樱花信脆",
+      "file": "蕾の邪王真眼樱花信脆.bds",
+      "thumb": "蕾の邪王真眼樱花信脆.bds_py_26_light_thumb.png",
+      "full": "蕾の邪王真眼樱花信脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉豹Kitty便利店脆",
+      "file": "蕾の粉豹Kitty便利店脆.bds",
+      "thumb": "蕾の粉豹Kitty便利店脆.bds_py_26_light_thumb.png",
+      "full": "蕾の粉豹Kitty便利店脆.bds_py_26_light.png"
+    },
+    {
+      "name": "甜妹贴纸底包",
+      "file": "蕾の樱桃鼠愿曲奇饼闷.bds",
+      "thumb": "蕾の樱桃鼠愿曲奇饼闷.bds_py_26_light_thumb.png",
+      "full": "蕾の樱桃鼠愿曲奇饼闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉豹Kitty便利店脆闷",
+      "file": "蕾の粉豹Kitty便利店脆闷.bds",
+      "thumb": "蕾の粉豹Kitty便利店脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の粉豹Kitty便利店脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の东京像素病栋脆闷",
+      "file": "蕾の东京像素病栋脆闷.bds",
+      "thumb": "蕾の东京像素病栋脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の东京像素病栋脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の我心怜水",
+      "file": "雨天の我心怜水.bds",
+      "thumb": "雨天の我心怜水.bds_py_26_light_thumb.png",
+      "full": "雨天の我心怜水.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の青苹果少女记闷",
+      "file": "蕾の苹果糖少女记闷.bds",
+      "thumb": "蕾の苹果糖少女记闷.bds_py_26_default_thumb.png",
+      "full": "蕾の苹果糖少女记闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の猫饼甜莓脆闷",
+      "file": "蕾の猫饼甜莓脆闷.bds",
+      "thumb": "蕾の猫饼甜莓脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の猫饼甜莓脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の四月樱花信脆闷",
+      "file": "蕾の四月樱花信闷脆.bds",
+      "thumb": "蕾の四月樱花信闷脆.bds_py_26_light_thumb.png",
+      "full": "蕾の四月樱花信闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉雾甜心脆",
+      "file": "蕾の粉雾甜心脆.bds",
+      "thumb": "蕾の粉雾甜心脆.bds_py_26_light_thumb.png",
+      "full": "蕾の粉雾甜心脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の东京像素病栋脆",
+      "file": "蕾の东京像素病栋脆.bds",
+      "thumb": "蕾の东京像素病栋脆.bds_py_26_light_thumb.png",
+      "full": "蕾の东京像素病栋脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "萌食玩厨娘音二.bds",
+      "thumb": "萌食玩厨娘音二.bds_py_26_light_thumb.png",
+      "full": "萌食玩厨娘音二.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "萌食玩厨娘.bds",
+      "thumb": "萌食玩厨娘.bds_py_26_light_thumb.png",
+      "full": "萌食玩厨娘.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉雾甜心闷",
+      "file": "蕾の粉雾甜心闷.bds",
+      "thumb": "蕾の粉雾甜心闷.bds_py_26_light_thumb.png",
+      "full": "蕾の粉雾甜心闷.bds_py_26_light.png"
+    },
+    {
+      "name": "交缠丝带音效一（兔）",
+      "file": "交缠丝带音一兔.bds",
+      "thumb": "交缠丝带音一兔.bds_py_26_default_thumb.png",
+      "full": "交缠丝带音一兔.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の焦糖奶芙闷",
+      "file": "蕾の焦糖奶芙闷.bds",
+      "thumb": "蕾の焦糖奶芙闷.bds_py_26_light_thumb.png",
+      "full": "蕾の焦糖奶芙闷.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の泪色锈钉",
+      "file": "雨天の泪色锈钉.bds",
+      "thumb": "雨天の泪色锈钉.bds_py_26_light_thumb.png",
+      "full": "雨天の泪色锈钉.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の午后棉花糖闷",
+      "file": "蕾の午后棉花糖闷.bds",
+      "thumb": "蕾の午后棉花糖闷.bds_py_26_light_thumb.png",
+      "full": "蕾の午后棉花糖闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の午后棉花糖脆",
+      "file": "蕾の午后棉花糖脆.bds",
+      "thumb": "蕾の午后棉花糖脆.bds_py_26_light_thumb.png",
+      "full": "蕾の午后棉花糖脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の桃桃莓华脆闷",
+      "file": "蕾の桃桃莓华脆闷.bds",
+      "thumb": "蕾の桃桃莓华脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の桃桃莓华脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾のmymelogun脆闷",
+      "file": "蕾のmymelogun脆闷.bds",
+      "thumb": "蕾のmymelogun脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾のmymelogun脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の薄荷巧巧眠闷",
+      "file": "蕾の薄荷巧巧眠闷.bds",
+      "thumb": "蕾の薄荷巧巧眠闷.bds_py_26_light_thumb.png",
+      "full": "蕾の薄荷巧巧眠闷.bds_py_26_light.png"
+    },
+    {
+      "name": "雨天の第七片四葉草",
+      "file": "雨天の第七片四葉草.bds",
+      "thumb": "雨天の第七片四葉草.bds_py_26_light_thumb.png",
+      "full": "雨天の第七片四葉草.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の猫耳哀歌脆闷",
+      "file": "蕾の猫耳哀歌脆闷.bds",
+      "thumb": "蕾の猫耳哀歌脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の猫耳哀歌脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の四月樱花信脆",
+      "file": "蕾の四月樱花信脆.bds",
+      "thumb": "蕾の四月樱花信脆.bds_py_26_light_thumb.png",
+      "full": "蕾の四月樱花信脆.bds_py_26_light.png"
+    },
+    {
+      "name": "交缠丝带音效二（兔）",
+      "file": "交缠丝带音二兔.bds",
+      "thumb": "交缠丝带音二兔.bds_py_26_default_thumb.png",
+      "full": "交缠丝带音二兔.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の青苹果少女记脆",
+      "file": "蕾の苹果糖少女记脆.bds",
+      "thumb": "蕾の苹果糖少女记脆.bds_py_26_default_thumb.png",
+      "full": "蕾の苹果糖少女记脆.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の四月樱花信闷脆.bdi",
+      "thumb": "蕾の四月樱花信闷脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の四月樱花信闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の东京像素病栋脆.bdi",
+      "thumb": "蕾の东京像素病栋脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の东京像素病栋脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の午后棉花糖脆.bdi",
+      "thumb": "蕾の午后棉花糖脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の午后棉花糖脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "甜妹贴纸底包",
+      "file": "蕾の樱桃鼠愿曲奇饼脆.bdi",
+      "thumb": "蕾の樱桃鼠愿曲奇饼脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の樱桃鼠愿曲奇饼脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の薄荷巧巧眠脆.bdi",
+      "thumb": "蕾の薄荷巧巧眠脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の薄荷巧巧眠脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "交缠丝带音效二（兔）",
+      "file": "交缠丝带音二兔.bdi",
+      "thumb": "交缠丝带音二兔.bdi_py_26_default_thumb.png",
+      "full": "交缠丝带音二兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の薄荷巧巧眠闷.bdi",
+      "thumb": "蕾の薄荷巧巧眠闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の薄荷巧巧眠闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "蕾の青苹果少女记脆",
+      "file": "蕾の苹果糖少女记脆.bdi",
+      "thumb": "蕾の苹果糖少女记脆.bdi_py_26_default_thumb.png",
+      "full": "蕾の苹果糖少女记脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の焦糖奶芙闷.bdi",
+      "thumb": "蕾の焦糖奶芙闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の焦糖奶芙闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の粉豹Kitty便利店脆.bdi",
+      "thumb": "蕾の粉豹Kitty便利店脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の粉豹Kitty便利店脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の粉雾甜心闷.bdi",
+      "thumb": "蕾の粉雾甜心闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の粉雾甜心闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の猫饼甜莓脆.bdi",
+      "thumb": "蕾の猫饼甜莓脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の猫饼甜莓脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の邪王真眼樱花信脆.bdi",
+      "thumb": "蕾の邪王真眼樱花信脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の邪王真眼樱花信脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "萌食玩厨娘",
+      "file": "萌食玩厨娘.bdi",
+      "thumb": "萌食玩厨娘.bdi_py_26_light_thumb.png",
+      "full": "萌食玩厨娘.bdi_py_26_light.png"
+    },
+    {
+      "name": "交缠丝带音效二彩底（兔）",
+      "file": "交缠丝带音二彩底兔.bdi",
+      "thumb": "交缠丝带音二彩底兔.bdi_py_26_default_thumb.png",
+      "full": "交缠丝带音二彩底兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "交缠丝带音效一彩底（兔）",
+      "file": "交缠丝带音一彩底兔.bdi",
+      "thumb": "交缠丝带音一彩底兔.bdi_py_26_default_thumb.png",
+      "full": "交缠丝带音一彩底兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の四月樱花信脆.bdi",
+      "thumb": "蕾の四月樱花信脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の四月樱花信脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天の泪色锈钉",
+      "file": "雨天の泪色锈钉.bdi",
+      "thumb": "雨天の泪色锈钉.bdi_py_26_light_thumb.png",
+      "full": "雨天の泪色锈钉.bdi_py_26_light.png"
+    },
+    {
+      "name": "交缠丝带音效一（兔）",
+      "file": "交缠丝带音一兔.bdi",
+      "thumb": "交缠丝带音一兔.bdi_py_26_default_thumb.png",
+      "full": "交缠丝带音一兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "甜妹贴纸底包",
+      "file": "蕾の樱桃鼠愿曲奇饼闷.bdi",
+      "thumb": "蕾の樱桃鼠愿曲奇饼闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の樱桃鼠愿曲奇饼闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の猫耳哀歌脆.bdi",
+      "thumb": "蕾の猫耳哀歌脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の猫耳哀歌脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の午后棉花糖闷.bdi",
+      "thumb": "蕾の午后棉花糖闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の午后棉花糖闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の焦糖奶芙脆.bdi",
+      "thumb": "蕾の焦糖奶芙脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の焦糖奶芙脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の桃桃莓华脆.bdi",
+      "thumb": "蕾の桃桃莓华脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の桃桃莓华脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の东京像素病栋脆闷.bdi",
+      "thumb": "蕾の东京像素病栋脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の东京像素病栋脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の猫饼甜莓脆闷.bdi",
+      "thumb": "蕾の猫饼甜莓脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の猫饼甜莓脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の桃桃莓华脆闷.bdi",
+      "thumb": "蕾の桃桃莓华脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の桃桃莓华脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "蕾の青苹果少女记闷",
+      "file": "蕾の苹果糖少女记闷.bdi",
+      "thumb": "蕾の苹果糖少女记闷.bdi_py_26_default_thumb.png",
+      "full": "蕾の苹果糖少女记闷.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾のmymelogun脆.bdi",
+      "thumb": "蕾のmymelogun脆.bdi_py_26_light_thumb.png",
+      "full": "蕾のmymelogun脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "和泉妃爱",
+      "file": "和泉妃爱.bdi",
+      "thumb": "和泉妃爱.bdi_py_26_light_thumb.png",
+      "full": "和泉妃爱.bdi_py_26_light.png"
+    },
+    {
+      "name": "第七片四葉草",
+      "file": "雨天の第七片四葉草.bdi",
+      "thumb": "雨天の第七片四葉草.bdi_py_26_light_thumb.png",
+      "full": "雨天の第七片四葉草.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾のmymelogun脆闷.bdi",
+      "thumb": "蕾のmymelogun脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾のmymelogun脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の猫耳哀歌脆闷.bdi",
+      "thumb": "蕾の猫耳哀歌脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の猫耳哀歌脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の邪王真眼樱花信脆闷.bdi",
+      "thumb": "蕾の邪王真眼樱花信脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の邪王真眼樱花信脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "萌食玩厨娘音效二",
+      "file": "萌食玩厨娘音二.bdi",
+      "thumb": "萌食玩厨娘音二.bdi_py_26_light_thumb.png",
+      "full": "萌食玩厨娘音二.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の粉豹Kitty便利店脆闷.bdi",
+      "thumb": "蕾の粉豹Kitty便利店脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の粉豹Kitty便利店脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "雨天の我心怜水",
+      "file": "雨天の我心怜水.bdi",
+      "thumb": "雨天の我心怜水.bdi_py_26_light_thumb.png",
+      "full": "雨天の我心怜水.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "我萌怎么啦.bdi",
+      "thumb": "我萌怎么啦.bdi_py_26_light_thumb.png",
+      "full": "我萌怎么啦.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "蕾の粉雾甜心脆.bdi",
+      "thumb": "蕾の粉雾甜心脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の粉雾甜心脆.bdi_py_26_light.png"
+    }
+  ]
+}
