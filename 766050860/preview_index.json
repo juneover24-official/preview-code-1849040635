@@ -1,92 +1,8 @@
 {
   "qq_number": "1849040635",
   "group_number": "766050860",
-  "updated_at": "2026-04-22T16:19:15.327694",
+  "updated_at": "2026-04-23T15:52:35.844799",
   "skins": [
-    {
-      "name": "蕾のClown☆Drop脆闷",
-      "file": "蕾のClownDrop脆闷.bds",
-      "thumb": "蕾のClownDrop脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾のClownDrop脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のAmulet♣︎Clover脆闷",
-      "file": "蕾のAmuletClover脆闷.bds",
-      "thumb": "蕾のAmuletClover脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾のAmuletClover脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のAmulet♡Spade脆",
-      "file": "蕾のAmuletSpade脆.bds",
-      "thumb": "蕾のAmuletSpade脆.bds_py_26_default_thumb.png",
-      "full": "蕾のAmuletSpade脆.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のAmulet♣︎Clover脆可爱",
-      "file": "蕾のAmuletClover脆可爱.bds",
-      "thumb": "蕾のAmuletClover脆可爱.bds_py_26_default_thumb.png",
-      "full": "蕾のAmuletClover脆可爱.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の蜜语Amulet Dia脆闷",
-      "file": "蕾の蜜语AmuletDia脆闷.bds",
-      "thumb": "蕾の蜜语AmuletDia脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾の蜜语AmuletDia脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のAmulet♡Heart脆闷",
-      "file": "蕾のAmuletHeart脆闷.bds",
-      "thumb": "蕾のAmuletHeart脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾のAmuletHeart脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の圣夜学院♡日奈森あむ可爱",
-      "file": "蕾の圣夜学院日奈森あむ可爱.bds",
-      "thumb": "蕾の圣夜学院日奈森あむ可爱.bds_py_26_default_thumb.png",
-      "full": "蕾の圣夜学院日奈森あむ可爱.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のClown☆Drop脆",
-      "file": "蕾のClownDrop脆.bds",
-      "thumb": "蕾のClownDrop脆.bds_py_26_default_thumb.png",
-      "full": "蕾のClownDrop脆.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のAmulet♡Spade闷水",
-      "file": "蕾のAmuletSpade闷水.bds",
-      "thumb": "蕾のAmuletSpade闷水.bds_py_26_default_thumb.png",
-      "full": "蕾のAmuletSpade闷水.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の圣夜学院♡日奈森あむ脆闷",
-      "file": "蕾の圣夜学院日奈森あむ脆闷.bds",
-      "thumb": "蕾の圣夜学院日奈森あむ脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾の圣夜学院日奈森あむ脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の蜜语Amulet Dia可爱",
-      "file": "蕾の蜜语AmuletDia可爱.bds",
-      "thumb": "蕾の蜜语AmuletDia可爱.bds_py_26_default_thumb.png",
-      "full": "蕾の蜜语AmuletDia可爱.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のLunatic♡charm脆闷",
-      "file": "蕾のLunaticcharm脆闷.bds",
-      "thumb": "蕾のLunaticcharm脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾のLunaticcharm脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のLunatic♡charm脆",
-      "file": "蕾のLunaticcharm脆.bds",
-      "thumb": "蕾のLunaticcharm脆.bds_py_26_default_thumb.png",
-      "full": "蕾のLunaticcharm脆.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のAmulet♡Heart可爱",
-      "file": "蕾のAmuletHeart可爱.bds",
-      "thumb": "蕾のAmuletHeart可爱.bds_py_26_default_thumb.png",
-      "full": "蕾のAmuletHeart可爱.bds_py_26_default.png"
-    },
     {
       "name": "蕾の蜜语Amulet Dia脆闷",
       "file": "蕾の蜜语AmuletDia脆闷.bdi",
@@ -170,6 +86,90 @@
       "file": "蕾の圣夜学院日奈森あむ可爱.bdi",
       "thumb": "蕾の圣夜学院日奈森あむ可爱.bdi_py_26_default_thumb.png",
       "full": "蕾の圣夜学院日奈森あむ可爱.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾のClown☆Drop脆闷",
+      "file": "蕾のClownDrop脆闷.bds",
+      "thumb": "蕾のClownDrop脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾のClownDrop脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のAmulet♣︎Clover脆闷",
+      "file": "蕾のAmuletClover脆闷.bds",
+      "thumb": "蕾のAmuletClover脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾のAmuletClover脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のAmulet♡Spade脆",
+      "file": "蕾のAmuletSpade脆.bds",
+      "thumb": "蕾のAmuletSpade脆.bds_py_26_default_thumb.png",
+      "full": "蕾のAmuletSpade脆.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のAmulet♣︎Clover脆可爱",
+      "file": "蕾のAmuletClover脆可爱.bds",
+      "thumb": "蕾のAmuletClover脆可爱.bds_py_26_default_thumb.png",
+      "full": "蕾のAmuletClover脆可爱.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の蜜语Amulet Dia脆闷",
+      "file": "蕾の蜜语AmuletDia脆闷.bds",
+      "thumb": "蕾の蜜语AmuletDia脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾の蜜语AmuletDia脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のAmulet♡Heart脆闷",
+      "file": "蕾のAmuletHeart脆闷.bds",
+      "thumb": "蕾のAmuletHeart脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾のAmuletHeart脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の圣夜学院♡日奈森あむ可爱",
+      "file": "蕾の圣夜学院日奈森あむ可爱.bds",
+      "thumb": "蕾の圣夜学院日奈森あむ可爱.bds_py_26_default_thumb.png",
+      "full": "蕾の圣夜学院日奈森あむ可爱.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のClown☆Drop脆",
+      "file": "蕾のClownDrop脆.bds",
+      "thumb": "蕾のClownDrop脆.bds_py_26_default_thumb.png",
+      "full": "蕾のClownDrop脆.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のAmulet♡Spade闷水",
+      "file": "蕾のAmuletSpade闷水.bds",
+      "thumb": "蕾のAmuletSpade闷水.bds_py_26_default_thumb.png",
+      "full": "蕾のAmuletSpade闷水.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の圣夜学院♡日奈森あむ脆闷",
+      "file": "蕾の圣夜学院日奈森あむ脆闷.bds",
+      "thumb": "蕾の圣夜学院日奈森あむ脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾の圣夜学院日奈森あむ脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の蜜语Amulet Dia可爱",
+      "file": "蕾の蜜语AmuletDia可爱.bds",
+      "thumb": "蕾の蜜语AmuletDia可爱.bds_py_26_default_thumb.png",
+      "full": "蕾の蜜语AmuletDia可爱.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のLunatic♡charm脆闷",
+      "file": "蕾のLunaticcharm脆闷.bds",
+      "thumb": "蕾のLunaticcharm脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾のLunaticcharm脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のLunatic♡charm脆",
+      "file": "蕾のLunaticcharm脆.bds",
+      "thumb": "蕾のLunaticcharm脆.bds_py_26_default_thumb.png",
+      "full": "蕾のLunaticcharm脆.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のAmulet♡Heart可爱",
+      "file": "蕾のAmuletHeart可爱.bds",
+      "thumb": "蕾のAmuletHeart可爱.bds_py_26_default_thumb.png",
+      "full": "蕾のAmuletHeart可爱.bds_py_26_default.png"
     }
   ]
 }

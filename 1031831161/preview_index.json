@@ -1,20 +1,8 @@
 {
   "qq_number": "1849040635",
   "group_number": "1031831161",
-  "updated_at": "2026-04-22T16:19:42.536366",
+  "updated_at": "2026-04-23T15:52:39.018081",
   "skins": [
-    {
-      "name": "蕾の零度空想机械音",
-      "file": "蕾の零度空想机械音.bds",
-      "thumb": "蕾の零度空想机械音.bds_py_26_light_thumb.png",
-      "full": "蕾の零度空想机械音.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の零度空想脆闷",
-      "file": "蕾の零度空想脆闷.bds",
-      "thumb": "蕾の零度空想脆闷.bds_py_26_light_thumb.png",
-      "full": "蕾の零度空想脆闷.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "蕾の零度空想机械音.bdi",
@@ -26,6 +14,18 @@
       "file": "蕾の零度空想脆闷.bdi",
       "thumb": "蕾の零度空想脆闷.bdi_py_26_light_thumb.png",
       "full": "蕾の零度空想脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "蕾の零度空想机械音",
+      "file": "蕾の零度空想机械音.bds",
+      "thumb": "蕾の零度空想机械音.bds_py_26_light_thumb.png",
+      "full": "蕾の零度空想机械音.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の零度空想脆闷",
+      "file": "蕾の零度空想脆闷.bds",
+      "thumb": "蕾の零度空想脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の零度空想脆闷.bds_py_26_light.png"
     }
   ]
 }

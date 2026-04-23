@@ -1,20 +1,8 @@
 {
   "qq_number": "1849040635",
   "group_number": "537363518",
-  "updated_at": "2026-04-22T16:19:15.952886",
+  "updated_at": "2026-04-23T15:52:36.809047",
   "skins": [
-    {
-      "name": "蕾の轻松熊蜜宝豆闷",
-      "file": "蕾の轻松熊蜜宝豆闷.bds",
-      "thumb": "蕾の轻松熊蜜宝豆闷.bds_py_26_default_thumb.png",
-      "full": "蕾の轻松熊蜜宝豆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の轻松熊蜜宝豆脆",
-      "file": "蕾の轻松熊蜜宝豆脆.bds",
-      "thumb": "蕾の轻松熊蜜宝豆脆.bds_py_26_default_thumb.png",
-      "full": "蕾の轻松熊蜜宝豆脆.bds_py_26_default.png"
-    },
     {
       "name": "蕾の轻松熊蜜宝豆闷",
       "file": "蕾の轻松熊蜜宝豆闷.bdi",
@@ -26,6 +14,18 @@
       "file": "蕾の轻松熊蜜宝豆脆.bdi",
       "thumb": "蕾の轻松熊蜜宝豆脆.bdi_py_26_default_thumb.png",
       "full": "蕾の轻松熊蜜宝豆脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾の轻松熊蜜宝豆闷",
+      "file": "蕾の轻松熊蜜宝豆闷.bds",
+      "thumb": "蕾の轻松熊蜜宝豆闷.bds_py_26_default_thumb.png",
+      "full": "蕾の轻松熊蜜宝豆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の轻松熊蜜宝豆脆",
+      "file": "蕾の轻松熊蜜宝豆脆.bds",
+      "thumb": "蕾の轻松熊蜜宝豆脆.bds_py_26_default_thumb.png",
+      "full": "蕾の轻松熊蜜宝豆脆.bds_py_26_default.png"
     }
   ]
 }

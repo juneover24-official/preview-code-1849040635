@@ -1,92 +1,8 @@
 {
   "qq_number": "1849040635",
   "group_number": "1080029636",
-  "updated_at": "2026-04-22T16:19:15.986603",
+  "updated_at": "2026-04-23T15:52:36.860461",
   "skins": [
-    {
-      "name": "蕾の奶糖布丁物语闷水",
-      "file": "蕾の奶糖布丁物语闷水.bds",
-      "thumb": "蕾の奶糖布丁物语闷水.bds_py_26_default_thumb.png",
-      "full": "蕾の奶糖布丁物语闷水.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の海盐巧克力闷脆",
-      "file": "蕾の海盐巧克力闷脆.bds",
-      "thumb": "蕾の海盐巧克力闷脆.bds_py_26_light_thumb.png",
-      "full": "蕾の海盐巧克力闷脆.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の奶黄酥酥派闷",
-      "file": "蕾の奶黄酥酥派闷.bds",
-      "thumb": "蕾の奶黄酥酥派闷.bds_py_26_default_thumb.png",
-      "full": "蕾の奶黄酥酥派闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の碎珠琉璃梦可爱音效",
-      "file": "蕾の碎珠琉璃梦可爱.bds",
-      "thumb": "蕾の碎珠琉璃梦可爱.bds_py_26_default_thumb.png",
-      "full": "蕾の碎珠琉璃梦可爱.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の奶糖布丁物语脆闷",
-      "file": "蕾の奶糖布丁物语脆闷.bds",
-      "thumb": "蕾の奶糖布丁物语脆闷.bds_py_26_default_thumb.png",
-      "full": "蕾の奶糖布丁物语脆闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のSweet甜蜜魔法可爱",
-      "file": "蕾のSweet甜蜜魔法可爱.bds",
-      "thumb": "蕾のSweet甜蜜魔法可爱.bds_py_26_default_thumb.png",
-      "full": "蕾のSweet甜蜜魔法可爱.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の粉绒浣熊甜点铺音效二",
-      "file": "蕾の粉绒浣熊甜点铺音二.bds",
-      "thumb": "蕾の粉绒浣熊甜点铺音二.bds_py_26_default_thumb.png",
-      "full": "蕾の粉绒浣熊甜点铺音二.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の私の名前はAoiです脆水",
-      "file": "蕾の私の名前はAoiてす脆水.bds",
-      "thumb": "蕾の私の名前はAoiてす脆水.bds_py_26_default_thumb.png",
-      "full": "蕾の私の名前はAoiてす脆水.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の粉绒浣熊甜点铺音效一",
-      "file": "蕾の粉绒浣熊甜点铺音一.bds",
-      "thumb": "蕾の粉绒浣熊甜点铺音一.bds_py_26_default_thumb.png",
-      "full": "蕾の粉绒浣熊甜点铺音一.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の海盐巧克力脆",
-      "file": "蕾の海盐巧克力脆.bds",
-      "thumb": "蕾の海盐巧克力脆.bds_py_26_light_thumb.png",
-      "full": "蕾の海盐巧克力脆.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の碎珠琉璃梦音效一",
-      "file": "蕾の碎珠琉璃梦音一.bds",
-      "thumb": "蕾の碎珠琉璃梦音一.bds_py_26_default_thumb.png",
-      "full": "蕾の碎珠琉璃梦音一.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾のSweet甜蜜魔法闷",
-      "file": "蕾のSweet甜蜜魔法闷.bds",
-      "thumb": "蕾のSweet甜蜜魔法闷.bds_py_26_default_thumb.png",
-      "full": "蕾のSweet甜蜜魔法闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の私の名前はAoiです闷",
-      "file": "蕾の私の名前はAoiてす闷.bds",
-      "thumb": "蕾の私の名前はAoiてす闷.bds_py_26_default_thumb.png",
-      "full": "蕾の私の名前はAoiてす闷.bds_py_26_default.png"
-    },
-    {
-      "name": "蕾の奶黄酥酥派脆",
-      "file": "蕾の奶黄酥酥派脆.bds",
-      "thumb": "蕾の奶黄酥酥派脆.bds_py_26_default_thumb.png",
-      "full": "蕾の奶黄酥酥派脆.bds_py_26_default.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "蕾の海盐巧克力闷脆.bdi",
@@ -170,6 +86,90 @@
       "file": "蕾の私の名前はAoiてす闷.bdi",
       "thumb": "蕾の私の名前はAoiてす闷.bdi_py_26_default_thumb.png",
       "full": "蕾の私の名前はAoiてす闷.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾の奶糖布丁物语闷水",
+      "file": "蕾の奶糖布丁物语闷水.bds",
+      "thumb": "蕾の奶糖布丁物语闷水.bds_py_26_default_thumb.png",
+      "full": "蕾の奶糖布丁物语闷水.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の海盐巧克力闷脆",
+      "file": "蕾の海盐巧克力闷脆.bds",
+      "thumb": "蕾の海盐巧克力闷脆.bds_py_26_light_thumb.png",
+      "full": "蕾の海盐巧克力闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の奶黄酥酥派闷",
+      "file": "蕾の奶黄酥酥派闷.bds",
+      "thumb": "蕾の奶黄酥酥派闷.bds_py_26_default_thumb.png",
+      "full": "蕾の奶黄酥酥派闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の碎珠琉璃梦可爱音效",
+      "file": "蕾の碎珠琉璃梦可爱.bds",
+      "thumb": "蕾の碎珠琉璃梦可爱.bds_py_26_default_thumb.png",
+      "full": "蕾の碎珠琉璃梦可爱.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の奶糖布丁物语脆闷",
+      "file": "蕾の奶糖布丁物语脆闷.bds",
+      "thumb": "蕾の奶糖布丁物语脆闷.bds_py_26_default_thumb.png",
+      "full": "蕾の奶糖布丁物语脆闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のSweet甜蜜魔法可爱",
+      "file": "蕾のSweet甜蜜魔法可爱.bds",
+      "thumb": "蕾のSweet甜蜜魔法可爱.bds_py_26_default_thumb.png",
+      "full": "蕾のSweet甜蜜魔法可爱.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の粉绒浣熊甜点铺音效二",
+      "file": "蕾の粉绒浣熊甜点铺音二.bds",
+      "thumb": "蕾の粉绒浣熊甜点铺音二.bds_py_26_default_thumb.png",
+      "full": "蕾の粉绒浣熊甜点铺音二.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の私の名前はAoiです脆水",
+      "file": "蕾の私の名前はAoiてす脆水.bds",
+      "thumb": "蕾の私の名前はAoiてす脆水.bds_py_26_default_thumb.png",
+      "full": "蕾の私の名前はAoiてす脆水.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の粉绒浣熊甜点铺音效一",
+      "file": "蕾の粉绒浣熊甜点铺音一.bds",
+      "thumb": "蕾の粉绒浣熊甜点铺音一.bds_py_26_default_thumb.png",
+      "full": "蕾の粉绒浣熊甜点铺音一.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の海盐巧克力脆",
+      "file": "蕾の海盐巧克力脆.bds",
+      "thumb": "蕾の海盐巧克力脆.bds_py_26_light_thumb.png",
+      "full": "蕾の海盐巧克力脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の碎珠琉璃梦音效一",
+      "file": "蕾の碎珠琉璃梦音一.bds",
+      "thumb": "蕾の碎珠琉璃梦音一.bds_py_26_default_thumb.png",
+      "full": "蕾の碎珠琉璃梦音一.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾のSweet甜蜜魔法闷",
+      "file": "蕾のSweet甜蜜魔法闷.bds",
+      "thumb": "蕾のSweet甜蜜魔法闷.bds_py_26_default_thumb.png",
+      "full": "蕾のSweet甜蜜魔法闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の私の名前はAoiです闷",
+      "file": "蕾の私の名前はAoiてす闷.bds",
+      "thumb": "蕾の私の名前はAoiてす闷.bds_py_26_default_thumb.png",
+      "full": "蕾の私の名前はAoiてす闷.bds_py_26_default.png"
+    },
+    {
+      "name": "蕾の奶黄酥酥派脆",
+      "file": "蕾の奶黄酥酥派脆.bds",
+      "thumb": "蕾の奶黄酥酥派脆.bds_py_26_default_thumb.png",
+      "full": "蕾の奶黄酥酥派脆.bds_py_26_default.png"
     }
   ]
 }

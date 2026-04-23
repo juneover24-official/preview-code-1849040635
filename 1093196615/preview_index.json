@@ -1,80 +1,8 @@
 {
   "qq_number": "1849040635",
   "group_number": "1093196615",
-  "updated_at": "2026-04-22T16:19:42.089126",
+  "updated_at": "2026-04-23T15:52:38.958095",
   "skins": [
-    {
-      "name": "蕾の紫眠电波兔脆",
-      "file": "蕾の紫眠电波兔脆.bds",
-      "thumb": "蕾の紫眠电波兔脆.bds_py_26_light_thumb.png",
-      "full": "蕾の紫眠电波兔脆.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の薄荷莓果曲奇脆闷",
-      "file": "蕾の薄荷莓果曲奇脆闷.bds",
-      "thumb": "蕾の薄荷莓果曲奇脆闷.bds_py_26_light_thumb.png",
-      "full": "蕾の薄荷莓果曲奇脆闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の月光魔法铺可爱",
-      "file": "蕾の月光魔法铺可爱.bds",
-      "thumb": "蕾の月光魔法铺可爱.bds_py_26_light_thumb.png",
-      "full": "蕾の月光魔法铺可爱.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の薄荷莓果曲奇闷",
-      "file": "蕾の薄荷莓果曲奇闷.bds",
-      "thumb": "蕾の薄荷莓果曲奇闷.bds_py_26_light_thumb.png",
-      "full": "蕾の薄荷莓果曲奇闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の烟雨栖蝶闷",
-      "file": "蕾の烟雨栖蝶闷.bds",
-      "thumb": "蕾の烟雨栖蝶闷.bds_py_26_light_thumb.png",
-      "full": "蕾の烟雨栖蝶闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の粉咖放映机脆",
-      "file": "蕾の粉咖放映机脆.bds",
-      "thumb": "蕾の粉咖放映机脆.bds_py_26_light_thumb.png",
-      "full": "蕾の粉咖放映机脆.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の兔语梦境脆闷",
-      "file": "蕾の兔语梦境脆闷.bds",
-      "thumb": "蕾の兔语梦境脆闷.bds_py_26_light_thumb.png",
-      "full": "蕾の兔语梦境脆闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の紫眠电波兔闷",
-      "file": "蕾の紫眠电波兔闷.bds",
-      "thumb": "蕾の紫眠电波兔闷.bds_py_26_light_thumb.png",
-      "full": "蕾の紫眠电波兔闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の兔语梦境脆",
-      "file": "蕾の兔语梦境脆.bds",
-      "thumb": "蕾の兔语梦境脆.bds_py_26_light_thumb.png",
-      "full": "蕾の兔语梦境脆.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の烟雨栖蝶脆",
-      "file": "蕾の烟雨栖蝶脆.bds",
-      "thumb": "蕾の烟雨栖蝶脆.bds_py_26_light_thumb.png",
-      "full": "蕾の烟雨栖蝶脆.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の粉咖放映机闷",
-      "file": "蕾の粉咖放映机闷.bds",
-      "thumb": "蕾の粉咖放映机闷.bds_py_26_light_thumb.png",
-      "full": "蕾の粉咖放映机闷.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の月光魔法铺脆闷",
-      "file": "蕾の月光魔法铺脆闷.bds",
-      "thumb": "蕾の月光魔法铺脆闷.bds_py_26_light_thumb.png",
-      "full": "蕾の月光魔法铺脆闷.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "蕾の紫眠电波兔闷.bdi",
@@ -146,6 +74,78 @@
       "file": "蕾の烟雨栖蝶闷.bdi",
       "thumb": "蕾の烟雨栖蝶闷.bdi_py_26_light_thumb.png",
       "full": "蕾の烟雨栖蝶闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "蕾の紫眠电波兔脆",
+      "file": "蕾の紫眠电波兔脆.bds",
+      "thumb": "蕾の紫眠电波兔脆.bds_py_26_light_thumb.png",
+      "full": "蕾の紫眠电波兔脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の薄荷莓果曲奇脆闷",
+      "file": "蕾の薄荷莓果曲奇脆闷.bds",
+      "thumb": "蕾の薄荷莓果曲奇脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の薄荷莓果曲奇脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の月光魔法铺可爱",
+      "file": "蕾の月光魔法铺可爱.bds",
+      "thumb": "蕾の月光魔法铺可爱.bds_py_26_light_thumb.png",
+      "full": "蕾の月光魔法铺可爱.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の薄荷莓果曲奇闷",
+      "file": "蕾の薄荷莓果曲奇闷.bds",
+      "thumb": "蕾の薄荷莓果曲奇闷.bds_py_26_light_thumb.png",
+      "full": "蕾の薄荷莓果曲奇闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の烟雨栖蝶闷",
+      "file": "蕾の烟雨栖蝶闷.bds",
+      "thumb": "蕾の烟雨栖蝶闷.bds_py_26_light_thumb.png",
+      "full": "蕾の烟雨栖蝶闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉咖放映机脆",
+      "file": "蕾の粉咖放映机脆.bds",
+      "thumb": "蕾の粉咖放映机脆.bds_py_26_light_thumb.png",
+      "full": "蕾の粉咖放映机脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の兔语梦境脆闷",
+      "file": "蕾の兔语梦境脆闷.bds",
+      "thumb": "蕾の兔语梦境脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の兔语梦境脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の紫眠电波兔闷",
+      "file": "蕾の紫眠电波兔闷.bds",
+      "thumb": "蕾の紫眠电波兔闷.bds_py_26_light_thumb.png",
+      "full": "蕾の紫眠电波兔闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の兔语梦境脆",
+      "file": "蕾の兔语梦境脆.bds",
+      "thumb": "蕾の兔语梦境脆.bds_py_26_light_thumb.png",
+      "full": "蕾の兔语梦境脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の烟雨栖蝶脆",
+      "file": "蕾の烟雨栖蝶脆.bds",
+      "thumb": "蕾の烟雨栖蝶脆.bds_py_26_light_thumb.png",
+      "full": "蕾の烟雨栖蝶脆.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の粉咖放映机闷",
+      "file": "蕾の粉咖放映机闷.bds",
+      "thumb": "蕾の粉咖放映机闷.bds_py_26_light_thumb.png",
+      "full": "蕾の粉咖放映机闷.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の月光魔法铺脆闷",
+      "file": "蕾の月光魔法铺脆闷.bds",
+      "thumb": "蕾の月光魔法铺脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の月光魔法铺脆闷.bds_py_26_light.png"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "qq_number": "1849040635",
   "group_number": "1030273655",
-  "updated_at": "2026-04-22T16:19:15.374002",
+  "updated_at": "2026-04-23T15:52:35.778522",
   "skins": [
-    {
-      "name": "蕾のUn Lock白旗天使",
-      "file": "蕾のUnLock白旗天使.bds",
-      "thumb": "蕾のUnLock白旗天使.bds_py_26_default_thumb.png",
-      "full": "蕾のUnLock白旗天使.bds_py_26_default.png"
-    },
     {
       "name": "蕾のUn Lock白旗天使",
       "file": "蕾のUnLock白旗天使.bdi",
       "thumb": "蕾のUnLock白旗天使.bdi_py_26_default_thumb.png",
       "full": "蕾のUnLock白旗天使.bdi_py_26_default.png"
+    },
+    {
+      "name": "蕾のUn Lock白旗天使",
+      "file": "蕾のUnLock白旗天使.bds",
+      "thumb": "蕾のUnLock白旗天使.bds_py_26_default_thumb.png",
+      "full": "蕾のUnLock白旗天使.bds_py_26_default.png"
     }
   ]
 }

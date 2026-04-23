@@ -1,32 +1,8 @@
 {
   "qq_number": "1849040635",
   "group_number": "1084343643",
-  "updated_at": "2026-04-22T16:19:30.608562",
+  "updated_at": "2026-04-23T15:52:38.626326",
   "skins": [
-    {
-      "name": "蕾の豹纹复古录",
-      "file": "蕾の豹纹复古录.bds",
-      "thumb": "蕾の豹纹复古录.bds_py_26_light_thumb.png",
-      "full": "蕾の豹纹复古录.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の雾粉信筏",
-      "file": "蕾の雾粉信筏.bds",
-      "thumb": "蕾の雾粉信筏.bds_py_26_light_thumb.png",
-      "full": "蕾の雾粉信筏.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の猫耳紫莓冰",
-      "file": "蕾の猫耳紫莓冰.bds",
-      "thumb": "蕾の猫耳紫莓冰.bds_py_26_light_thumb.png",
-      "full": "蕾の猫耳紫莓冰.bds_py_26_light.png"
-    },
-    {
-      "name": "蕾の黑糖契约",
-      "file": "蕾の黑糖契约.bds",
-      "thumb": "蕾の黑糖契约.bds_py_26_light_thumb.png",
-      "full": "蕾の黑糖契约.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "蕾の豹纹复古录.bdi",
@@ -50,6 +26,30 @@
       "file": "蕾の黑糖契约.bdi",
       "thumb": "蕾の黑糖契约.bdi_py_26_light_thumb.png",
       "full": "蕾の黑糖契约.bdi_py_26_light.png"
+    },
+    {
+      "name": "蕾の豹纹复古录",
+      "file": "蕾の豹纹复古录.bds",
+      "thumb": "蕾の豹纹复古录.bds_py_26_light_thumb.png",
+      "full": "蕾の豹纹复古录.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の雾粉信筏",
+      "file": "蕾の雾粉信筏.bds",
+      "thumb": "蕾の雾粉信筏.bds_py_26_light_thumb.png",
+      "full": "蕾の雾粉信筏.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の猫耳紫莓冰",
+      "file": "蕾の猫耳紫莓冰.bds",
+      "thumb": "蕾の猫耳紫莓冰.bds_py_26_light_thumb.png",
+      "full": "蕾の猫耳紫莓冰.bds_py_26_light.png"
+    },
+    {
+      "name": "蕾の黑糖契约",
+      "file": "蕾の黑糖契约.bds",
+      "thumb": "蕾の黑糖契约.bds_py_26_light_thumb.png",
+      "full": "蕾の黑糖契约.bds_py_26_light.png"
     }
   ]
 }
