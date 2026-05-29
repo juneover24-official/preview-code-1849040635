@@ -1,13 +1,19 @@
 {
   "qq_number": "1849040635",
   "group_number": "1092330978",
+  "updated_at": "2026-05-29T05:14:24+00:00",
   "skins": [
     {
       "name": "蕾の甜梦捕手",
       "file": "蕾の甜梦捕手.bdi",
       "thumb": "蕾の甜梦捕手.bdi_py_26_light_thumb.png",
       "full": "蕾の甜梦捕手.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の甜梦捕手",
+      "file": "蕾の甜梦捕手.bds",
+      "thumb": "蕾の甜梦捕手.bds_py_26_light_thumb.png",
+      "full": "蕾の甜梦捕手.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-05-29T05:13:13+00:00"
+  ]
 }
