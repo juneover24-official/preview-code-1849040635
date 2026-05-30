@@ -1,13 +1,19 @@
 {
   "qq_number": "1849040635",
   "group_number": "129176168",
+  "updated_at": "2026-05-30T09:27:18+00:00",
   "skins": [
     {
       "name": "蕾の骨牌狗汪汪",
       "file": "蕾の骨牌狗汪汪.bds",
       "thumb": "蕾の骨牌狗汪汪.bds_py_26_light_thumb.png",
       "full": "蕾の骨牌狗汪汪.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の 莓烦恼",
+      "file": "蕾の莓烦恼.bds",
+      "thumb": "蕾の莓烦恼.bds_py_26_light_thumb.png",
+      "full": "蕾の莓烦恼.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-05-30T05:35:10+00:00"
+  ]
 }
