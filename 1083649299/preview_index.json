@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-01T13:20:54+00:00",
+  "updated_at": "2026-06-02T03:39:15+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -476,6 +476,12 @@
       "file": "蕾の用了就会niconiconi闷.bdi",
       "thumb": "蕾の用了就会niconiconi闷.bdi_py_26_light_thumb.png",
       "full": "蕾の用了就会niconiconi闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の用了就会niconiconi脆闷",
+      "file": "蕾の用了就会niconiconi脆闷.bdi",
+      "thumb": "蕾の用了就会niconiconi脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の用了就会niconiconi脆闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
