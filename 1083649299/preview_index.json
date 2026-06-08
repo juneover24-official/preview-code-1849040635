@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-08T13:34:31+00:00",
+  "updated_at": "2026-06-08T14:01:47+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -494,6 +494,12 @@
       "file": "凛の咪豆泥是我最爱彩.bds",
       "thumb": "凛の咪豆泥是我最爱彩.bds_py_26_light_thumb.png",
       "full": "凛の咪豆泥是我最爱彩.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "凛の咪豆泥是我最爱bdi",
+      "file": "凛の咪豆泥是我最爱.bdi",
+      "thumb": "凛の咪豆泥是我最爱.bdi_py_26_light_thumb.png",
+      "full": "凛の咪豆泥是我最爱.bdi_py_26_light_thumb.png"
     }
   ]
 }
