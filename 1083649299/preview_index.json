@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-08T11:32:50+00:00",
+  "updated_at": "2026-06-08T13:34:31+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -488,6 +488,12 @@
       "file": "蕾の夏祭花火集脆闷.bdi",
       "thumb": "蕾の夏祭花火集脆闷.bdi_py_26_light_thumb.png",
       "full": "蕾の夏祭花火集脆闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "凛の咪豆泥是我最爱bds",
+      "file": "凛の咪豆泥是我最爱彩.bds",
+      "thumb": "凛の咪豆泥是我最爱彩.bds_py_26_light_thumb.png",
+      "full": "凛の咪豆泥是我最爱彩.bds_py_26_light_thumb.png"
     }
   ]
 }
