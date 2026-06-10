@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-10T14:47:57+00:00",
+  "updated_at": "2026-06-10T14:50:01+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -530,6 +530,12 @@
       "file": "雨天の萌气稚物所.bds",
       "thumb": "雨天の萌气稚物所.bds_py_26_light_thumb.png",
       "full": "雨天の萌气稚物所.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の电波少女宅家录脆闷",
+      "file": "蕾の电波少女宅家录脆闷.bdi",
+      "thumb": "蕾の电波少女宅家录脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の电波少女宅家录脆闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
