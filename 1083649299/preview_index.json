@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-10T14:44:11+00:00",
+  "updated_at": "2026-06-10T14:44:53+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -512,6 +512,12 @@
       "file": "雨天の未知X.bdi",
       "thumb": "雨天の未知X.bdi_py_26_light_thumb.png",
       "full": "雨天の未知X.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "雨天の未知X",
+      "file": "雨天の未知X.bds",
+      "thumb": "雨天の未知X.bds_py_26_light_thumb.png",
+      "full": "雨天の未知X.bds_py_26_light_thumb.png"
     }
   ]
 }
