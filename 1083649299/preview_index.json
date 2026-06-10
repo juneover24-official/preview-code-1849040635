@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-10T18:02:15+00:00",
+  "updated_at": "2026-06-10T18:02:53+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -596,6 +596,12 @@
       "file": "蕾の焦糖小铺营业中脆.bdi",
       "thumb": "蕾の焦糖小铺营业中脆.bdi_py_26_light_thumb.png",
       "full": "蕾の焦糖小铺营业中脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の焦糖小铺营业中",
+      "file": "蕾の焦糖小铺营业中脆.bds",
+      "thumb": "蕾の焦糖小铺营业中脆.bds_py_26_light_thumb.png",
+      "full": "蕾の焦糖小铺营业中脆.bds_py_26_light_thumb.png"
     }
   ]
 }
