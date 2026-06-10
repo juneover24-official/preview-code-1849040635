@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-10T16:25:27+00:00",
+  "updated_at": "2026-06-10T16:25:57+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -572,6 +572,12 @@
       "file": "蕾の病栋miku脆闷.bdi",
       "thumb": "蕾の病栋miku脆闷.bdi_py_26_light_thumb.png",
       "full": "蕾の病栋miku脆闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の病栋miku闷水",
+      "file": "蕾の病栋miku闷水.bdi",
+      "thumb": "蕾の病栋miku闷水.bdi_py_26_light_thumb.png",
+      "full": "蕾の病栋miku闷水.bdi_py_26_light_thumb.png"
     }
   ]
 }
