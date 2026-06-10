@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-08T14:01:47+00:00",
+  "updated_at": "2026-06-10T14:37:31+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -500,6 +500,12 @@
       "file": "凛の咪豆泥是我最爱.bdi",
       "thumb": "凛の咪豆泥是我最爱.bdi_py_26_light_thumb.png",
       "full": "凛の咪豆泥是我最爱.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の夢破片机械",
+      "file": "蕾の夢破片机械.bdi",
+      "thumb": "蕾の夢破片机械.bdi_py_26_light_thumb.png",
+      "full": "蕾の夢破片机械.bdi_py_26_light_thumb.png"
     }
   ]
 }
