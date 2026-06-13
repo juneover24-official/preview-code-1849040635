@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-11T02:40:06+00:00",
+  "updated_at": "2026-06-13T05:27:52+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -614,6 +614,12 @@
       "file": "蕾の蜜柑少女闷.bdi",
       "thumb": "蕾の蜜柑少女闷.bdi_py_26_light_thumb.png",
       "full": "蕾の蜜柑少女闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の夏祭花火集可爱音",
+      "file": "蕾の夏祭花火集可爱音.bdi",
+      "thumb": "蕾の夏祭花火集可爱音.bdi_py_26_light_thumb.png",
+      "full": "蕾の夏祭花火集可爱音.bdi_py_26_light_thumb.png"
     }
   ]
 }
