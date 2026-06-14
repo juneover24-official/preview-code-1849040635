@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "812866636",
-  "updated_at": "2026-06-14T06:58:02+00:00",
+  "updated_at": "2026-06-14T07:02:05+00:00",
   "skins": [
     {
       "name": "蕾の弹丸桃色梦魇",
@@ -26,6 +26,12 @@
       "file": "蕾の梅樱渡春辞闷脆.bds",
       "thumb": "蕾の梅樱渡春辞闷脆.bds_py_26_light_thumb.png",
       "full": "蕾の梅樱渡春辞闷脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の梅樱渡春辞",
+      "file": "蕾の梅樱渡春辞可爱.bds",
+      "thumb": "蕾の梅樱渡春辞可爱.bds_py_26_light_thumb.png",
+      "full": "蕾の梅樱渡春辞可爱.bds_py_26_light_thumb.png"
     }
   ]
 }
