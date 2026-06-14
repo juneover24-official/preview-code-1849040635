@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-14T07:59:19+00:00",
+  "updated_at": "2026-06-14T08:01:14+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -644,6 +644,12 @@
       "file": "蕾の绒偶心事脆可爱.bds",
       "thumb": "蕾の绒偶心事脆可爱.bds_py_26_light_thumb.png",
       "full": "蕾の绒偶心事脆可爱.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の绒偶心事",
+      "file": "蕾の绒偶心事脆闷.bds",
+      "thumb": "蕾の绒偶心事脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の绒偶心事脆闷.bds_py_26_light_thumb.png"
     }
   ]
 }
