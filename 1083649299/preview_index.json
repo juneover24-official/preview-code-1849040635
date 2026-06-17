@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-06-14T08:02:25+00:00",
+  "updated_at": "2026-06-17T08:10:33+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -656,6 +656,12 @@
       "file": "蕾の绒偶心事脆可爱.bdi",
       "thumb": "蕾の绒偶心事脆可爱.bdi_py_26_light_thumb.png",
       "full": "蕾の绒偶心事脆可爱.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "雨天の試作形少女",
+      "file": "雨天の試作形少女.bdi",
+      "thumb": "雨天の試作形少女.bdi_py_26_light_thumb.png",
+      "full": "雨天の試作形少女.bdi_py_26_light_thumb.png"
     }
   ]
 }
