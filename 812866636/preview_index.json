@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "812866636",
-  "updated_at": "2026-06-22T22:21:58+00:00",
+  "updated_at": "2026-06-22T22:24:21+00:00",
   "skins": [
     {
       "name": "蕾の弹丸桃色梦魇",
@@ -68,6 +68,12 @@
       "file": "蕾の落雪猫屿脆脆.bds",
       "thumb": "蕾の落雪猫屿脆脆.bds_py_26_light_thumb.png",
       "full": "蕾の落雪猫屿脆脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の落雪猫屿",
+      "file": "蕾の落雪猫屿脆闷.bds",
+      "thumb": "蕾の落雪猫屿脆闷.bds_py_26_light_thumb.png",
+      "full": "蕾の落雪猫屿脆闷.bds_py_26_light_thumb.png"
     }
   ]
 }
