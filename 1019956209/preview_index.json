@@ -1,13 +1,19 @@
 {
   "qq_number": "1849040635",
   "group_number": "1019956209",
+  "updated_at": "2026-06-23T08:18:09+00:00",
   "skins": [
     {
       "name": "蕾の过期爱意",
       "file": "蕾の过期爱意.bdi",
       "thumb": "蕾の过期爱意.bdi_py_26_light_thumb.png",
       "full": "蕾の过期爱意.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の包容你的伤和痛",
+      "file": "蕾の包容你的伤和痛.bdi",
+      "thumb": "蕾の包容你的伤和痛.bdi_py_26_light_thumb.png",
+      "full": "蕾の包容你的伤和痛.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-23T03:26:27+00:00"
+  ]
 }
