@@ -1,13 +1,19 @@
 {
   "qq_number": "1849040635",
   "group_number": "107862831",
+  "updated_at": "2026-06-30T20:41:40+00:00",
   "skins": [
     {
       "name": "蕾のゆっくり電波図鑑机械一",
       "file": "蕾のゆっくり電波図鑑机械一.bdi",
       "thumb": "蕾のゆっくり電波図鑑机械一.bdi_py_26_light_thumb.png",
       "full": "蕾のゆっくり電波図鑑机械一.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾のゆっくり電波図鑑脆闷",
+      "file": "蕾のゆっくり電波図鑑脆闷.bdi",
+      "thumb": "蕾のゆっくり電波図鑑脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾のゆっくり電波図鑑脆闷.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-30T20:41:18+00:00"
+  ]
 }
