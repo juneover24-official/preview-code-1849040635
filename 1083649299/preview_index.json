@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-07-03T20:07:37+00:00",
+  "updated_at": "2026-07-03T20:08:50+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -692,6 +692,12 @@
       "file": "蕾の星之杖脆.bdi",
       "thumb": "蕾の星之杖脆.bdi_py_26_light_thumb.png",
       "full": "蕾の星之杖脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の夢破片脆闷",
+      "file": "蕾の夢破片脆闷.bdi",
+      "thumb": "蕾の夢破片脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の夢破片脆闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
