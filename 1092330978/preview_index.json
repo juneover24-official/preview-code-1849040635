@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1092330978",
-  "updated_at": "2026-07-03T17:26:04+00:00",
+  "updated_at": "2026-07-03T17:27:11+00:00",
   "skins": [
     {
       "name": "蕾の甜梦捕手",
@@ -32,6 +32,12 @@
       "file": "蕾の失序白翼机械.bdi",
       "thumb": "蕾の失序白翼机械.bdi_py_26_light_thumb.png",
       "full": "蕾の失序白翼机械.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の失序白翼脆闷",
+      "file": "蕾の失序白翼脆闷.bdi",
+      "thumb": "蕾の失序白翼脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の失序白翼脆闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
