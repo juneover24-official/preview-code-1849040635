@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "166817587",
-  "updated_at": "2026-07-15T06:47:17+00:00",
+  "updated_at": "2026-07-16T14:57:47+00:00",
   "skins": [
     {
       "name": "蕾の桃色寄梦",
@@ -74,6 +74,12 @@
       "file": "蕾の小埋宅宅ゆめ手帳喵音.bds",
       "thumb": "蕾の小埋宅宅ゆめ手帳喵音.bds_py_26_light_thumb.png",
       "full": "蕾の小埋宅宅ゆめ手帳喵音.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の花々花は凛と咲く",
+      "file": "蕾の花々花は凛と咲く脆.bds",
+      "thumb": "蕾の花々花は凛と咲く脆.bds_py_26_light_thumb.png",
+      "full": "蕾の花々花は凛と咲く脆.bds_py_26_light_thumb.png"
     }
   ]
 }
