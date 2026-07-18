@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "166817587",
-  "updated_at": "2026-07-18T17:08:38+00:00",
+  "updated_at": "2026-07-18T17:09:14+00:00",
   "skins": [
     {
       "name": "蕾の桃色寄梦",
@@ -107,12 +107,6 @@
     },
     {
       "name": "蕾の我们的世界可以只有彼此吗",
-      "file": "蕾の我们的世界可以只有彼此吗脆.bds",
-      "thumb": "蕾の我们的世界可以只有彼此吗脆.bds_py_26_light_thumb.png",
-      "full": "蕾の我们的世界可以只有彼此吗脆.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "蕾の我们的世界可以只有彼此吗",
       "file": "蕾の我们的世界可以只有彼此吗萌音.bds",
       "thumb": "蕾の我们的世界可以只有彼此吗萌音.bds_py_26_light_thumb.png",
       "full": "蕾の我们的世界可以只有彼此吗萌音.bds_py_26_light_thumb.png"
@@ -122,6 +116,12 @@
       "file": "蕾の小埋宅宅ゆめ手帳脆脆.bds",
       "thumb": "蕾の小埋宅宅ゆめ手帳脆脆.bds_py_26_light_thumb.png",
       "full": "蕾の小埋宅宅ゆめ手帳脆脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の我们的世界可以只有彼此吗",
+      "file": "蕾の我们的世界可以只有彼此吗脆.bds",
+      "thumb": "蕾の我们的世界可以只有彼此吗脆.bds_py_26_light_thumb.png",
+      "full": "蕾の我们的世界可以只有彼此吗脆.bds_py_26_light_thumb.png"
     }
   ]
 }
