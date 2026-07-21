@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "166817587",
-  "updated_at": "2026-07-18T17:10:30+00:00",
+  "updated_at": "2026-07-21T13:24:29+00:00",
   "skins": [
     {
       "name": "蕾の桃色寄梦",
@@ -122,6 +122,12 @@
       "file": "蕾の我们的世界可以只有彼此吗萌音.bds",
       "thumb": "蕾の我们的世界可以只有彼此吗萌音.bds_py_26_light_thumb.png",
       "full": "蕾の我们的世界可以只有彼此吗萌音.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾のゆめ猫耳放送中脆闷",
+      "file": "蕾のゆめ猫耳放送中脆闷.bdi",
+      "thumb": "蕾のゆめ猫耳放送中脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾のゆめ猫耳放送中脆闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
