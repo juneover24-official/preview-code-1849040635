@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-07-13T21:51:43+00:00",
+  "updated_at": "2026-07-22T06:32:17+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -752,6 +752,12 @@
       "file": "蕾の星夢魔法阵脆.bds",
       "thumb": "蕾の星夢魔法阵脆.bds_py_26_light_thumb.png",
       "full": "蕾の星夢魔法阵脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の✟黒翼祈り✟脆闷",
+      "file": "蕾の黒翼祈り脆闷.bdi",
+      "thumb": "蕾の黒翼祈り脆闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の黒翼祈り脆闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
