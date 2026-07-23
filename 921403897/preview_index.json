@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "921403897",
-  "updated_at": "2026-07-23T22:37:46+00:00",
+  "updated_at": "2026-07-23T22:38:54+00:00",
   "skins": [
     {
       "name": "蕾の奶油绵羊铺脆",
@@ -14,6 +14,12 @@
       "file": "蕾の奶油绵羊铺闷可爱.bdi",
       "thumb": "蕾の奶油绵羊铺闷可爱.bdi_py_26_light_thumb.png",
       "full": "蕾の奶油绵羊铺闷可爱.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の奶油绵羊铺闷可爱",
+      "file": "蕾の奶油绵羊铺闷可爱.bds",
+      "thumb": "蕾の奶油绵羊铺闷可爱.bds_py_26_light_thumb.png",
+      "full": "蕾の奶油绵羊铺闷可爱.bds_py_26_light_thumb.png"
     }
   ]
 }
