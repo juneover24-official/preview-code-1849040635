@@ -1,13 +1,19 @@
 {
   "qq_number": "1849040635",
   "group_number": "1036413083",
+  "updated_at": "2026-07-28T11:18:55+00:00",
   "skins": [
     {
       "name": "蕾の依赖产生痛觉",
       "file": "蕾の依赖产生痛觉.bdi",
       "thumb": "蕾の依赖产生痛觉.bdi_py_26_light_thumb.png",
       "full": "蕾の依赖产生痛觉.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の橙香薄巧",
+      "file": "蕾の橙香薄巧.bdi",
+      "thumb": "蕾の橙香薄巧.bdi_py_26_light_thumb.png",
+      "full": "蕾の橙香薄巧.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-28T06:01:09+00:00"
+  ]
 }
