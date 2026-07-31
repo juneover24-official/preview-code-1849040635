@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-07-22T06:53:41+00:00",
+  "updated_at": "2026-07-31T01:00:49+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -776,6 +776,12 @@
       "file": "蕾の黒翼祈り脆闷.bds",
       "thumb": "蕾の黒翼祈り脆闷.bds_py_26_light_thumb.png",
       "full": "蕾の黒翼祈り脆闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の樱亭晚叙",
+      "file": "蕾の樱亭晚叙闷脆.bdi",
+      "thumb": "蕾の樱亭晚叙闷脆.bdi_py_26_light_thumb.png",
+      "full": "蕾の樱亭晚叙闷脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
