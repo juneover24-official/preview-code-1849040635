@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1081240816",
-  "updated_at": "2026-08-02T07:04:15+00:00",
+  "updated_at": "2026-08-02T07:08:08+00:00",
   "skins": [
     {
       "name": "蕾の棕桃蜜语",
@@ -20,6 +20,12 @@
       "file": "蕾の青竹予君.bdi",
       "thumb": "蕾の青竹予君.bdi_py_26_light_thumb.png",
       "full": "蕾の青竹予君.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "蕾の棕桃蜜语",
+      "file": "蕾の棕桃蜜语.bdi",
+      "thumb": "蕾の棕桃蜜语.bdi_py_26_light_thumb.png",
+      "full": "蕾の棕桃蜜语.bdi_py_26_light_thumb.png"
     }
   ]
 }
