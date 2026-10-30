@@ -1,7 +1,7 @@
 {
   "qq_number": "1849040635",
   "group_number": "1083649299",
-  "updated_at": "2026-10-30T02:01:28+00:00",
+  "updated_at": "2026-10-30T02:03:29+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -822,6 +822,13 @@
       "thumb": "蕾の華味祭銀魂めし闷闷.bds_py_26_light_thumb.png",
       "full": "蕾の華味祭銀魂めし闷闷.bds_py_26_light_thumb.png",
       "file_id": "2346f70f40bfecb587dee8077e7d9a08"
+    },
+    {
+      "name": "蕾の華味祭銀魂めし",
+      "file": "蕾の華味祭銀魂めし闷闷.bdi",
+      "thumb": "蕾の華味祭銀魂めし闷闷.bdi_py_26_light_thumb.png",
+      "full": "蕾の華味祭銀魂めし闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "827a373583f60850d56baa75d09a34d0"
     }
   ]
 }
